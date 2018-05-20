@@ -2,9 +2,9 @@
 title: Postgresql客户端认证
 date: 2017-09-24 23:00:00
 categories:
-- Postgresql
+- Greenplum PostgreSQL
 tags:
-- Postgresql
+- Greenplum PostgreSQL
 ---
 
 pg_hba.conf配置数据连接认证方式，内容如下
